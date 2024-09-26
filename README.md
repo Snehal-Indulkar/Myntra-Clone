@@ -45,10 +45,12 @@ You can directly open the index.html file in a browser to view the project, or y
 
 + # After clicking the studio tab index.html page
   
-![Screenshot 2024-09-25 201357](https://github.com/user-attachments/assets/7d3e91a1-cebb-4c4e-9ff9-92f26e8a3cdd)
+![Screenshot 2024-09-26 132632](https://github.com/user-attachments/assets/e6c04c56-83b5-47e2-9dc9-c29aaf653499)
 
 
-![5](https://github.com/user-attachments/assets/b57dcba3-0ba6-4d01-bc25-594647931661)
+![Screenshot 2024-09-26 132420](https://github.com/user-attachments/assets/c6dafc1e-715e-4ce4-b10c-b938de4553bd)
+
+
 
 
 + # After clicking the bag icon bag.html page
