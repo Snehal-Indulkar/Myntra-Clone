@@ -40,7 +40,7 @@ items.forEach(item => {
     <div class="rating">
         ${item.rating.stars} ⭐ | ${item.rating.count}
     </div>
-    <div class="company-name">${item.company_name}</div>
+    <div class="company-name">${item.company}</div>
     <div class="item-name">${item.item_name}</div>
     <div class="price">
         <span class="current-price">${item.current_price}</span>
